@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "strac-interview-gdrive-project",
-  "private_key_id": "e5fec7fd35c6a4a1a369d3355c5ef517ad60e475",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDBuM5swDavAlc1\nfXiM1sOYMQWcgJWLnXbMlKk7Pm0ySahmRPUehdx9W+MUJZ+r9Pdh89TmvJ03Zf6C\nqTbCcYu+DJNta7S5//0SQnygZATOMzsfp1C4w81CYJS1IhJTFY8wHkBUD8BfuTaA\nnIXh9X1LG2IwAG+TOCPZQm5ihf+hY9B59XDqhNOezLrtTJv6R3dVzZ5dsN0v1Rbd\nH+NAvwSsrFTA0csnGOZJ0cIGY7OvhmjW13SwO4gjsnsU22kANEQ2BeMncZrGAQiA\n3VEOc+0kfTq+rfwjThG1KmKsm6Xz/oZfEKPHXRjH/EEdxi9dO7um9PkEXtqr7yRK\n7/8eAgA9AgMBAAECggEAA26CAgVF3FCy8xcTdyoIlRRzO4wMk7u4z2Cny2cGJkcN\nqGG61nnure4EuWyw/10R/8zchEmqXrRo4oj1JLmM5rnQZ8N2oPl5Rgt7xTFlMDKF\nbtoqKo4imSheu5zmDOcIhKslUeF+84/za8PtQqA0aL7yr/p/mRcV8+L17SFfpdmr\nDvGh1RMA+KtIsiSDIr6seEF+Y1PsYhbpMpmoYyLfKfHc3A+qdoSo+V7kpSOh0BwZ\nfVcfbBYg7xJRhbH8symH8kkwQ2FRrHqIwisiMA2p8M9AYYkwWNY8wOiUa6y2emgJ\nf6EYmC2xXQjlNKEZmwTAuXzuDrE4act0ujiubMuaqQKBgQDnSrAMfG/6tn9sdu/s\nDa/8x1J25fjS86fCOyssiI5dBCGPqwQkwM8yFca2iDDkSa4wSEt0M/AedGaPQI0G\ne8CjSV4MU+2wfkUruLYCQo/FMNva5C0JrVWJsouxb+5WLrZD+MRD5QMGvueQIfUa\nmTZQlXIwStM97pJ+IA6DCGMtGQKBgQDWaqrSGUmpAgBKWA/0b06yTkbiRGSV/an/\ni/hPkRHcXg8sbrfNobLxjZwxBwpYpPwQl38wA6SSOa0wameXEJm1Z+89fbrrl75p\ngpiBN/7WxvIo9eiZ5hHvoNxiZJ1muK1DMJgzz15qkFQAaqeEvHHgi++/6RphMBl8\n+GpVW3AsxQKBgQCNagb1u2ej/M0v/hB3XW8KuLvc4oMeR8d8ZDzjf6K7kHkMpF1m\nM1T7pIDYvbBXBA2yi6FGrTLVDApg7/DJ1ARWUddk5jPfw3R7ZPYzr4rD4DmsPfKj\nhg1UoYvzsyIgI3NhX8pwUKdnCnX+lCSOXLruzlEA4d8CcMm0v9jfmNM6kQKBgHXT\nnBdkihPz45D3H51lZUuatF021EeQY9DobAXdZIFCtvflx9+aUilndkOC6O6Zi2La\nvav29ILeawvGDTL4jl8fxFp4MzWv55U3jPLFgKcqIHzd1Xps8cJLFZCEVfLS3XOk\nyp79/5ZzxZWNBo1suO96Nr+xKyvpMLh6EoThgJ05An8FcI9pzZS9Qf6/P9lsiFJo\npBTVlHPuAUPbcqlQDN6VQ218+SsNGcEaT6nDhZwuN+wCQpP91GC5rx0uNuCsPcIe\nqXv4Y7otFUUA3GOPPXfvvYrddcn1Yga4mURnMUqPzvFbfQPgzbheXq2RbIVbMLXq\n/5jqAJcdOuuN4tx9FsB2\n-----END PRIVATE KEY-----\n",
-  "client_email": "gdrivereactnode@strac-interview-gdrive-project.iam.gserviceaccount.com",
-  "client_id": "103746001648444275738",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gdrivereactnode%40strac-interview-gdrive-project.iam.gserviceaccount.com"
-}
+
